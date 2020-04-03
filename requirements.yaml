@@ -1,3 +1,4 @@
 dependencies:
 - name: emqx
+  version: v4.0.5
   repository: https://repos.emqx.io/charts
