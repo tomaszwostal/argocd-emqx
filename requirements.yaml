@@ -1,0 +1,3 @@
+dependencies:
+- name: emqx
+  repository: https://repos.emqx.io/charts
